@@ -34,7 +34,7 @@ public interface IClientesClient {
 	@PostMapping
 	public void incluir(Cliente cliente);
 	
-	@DeleteMapping("/{id}")
+	@DeleteMapping("/del/{id}")
 	public void ExcluirPorId(@PathVariable Integer id);
 
 }

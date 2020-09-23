@@ -9,6 +9,7 @@
   <a href="/clientes" >Clientes</a>
   <a href="/servicos" >Serviços</a>
   <a href="/boletos" class="active">Boletos</a>
+  <a href="/logout">[logout]</a>
 </div>
 
 <div class="container">

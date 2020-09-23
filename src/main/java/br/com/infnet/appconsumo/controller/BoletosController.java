@@ -68,7 +68,9 @@ public class BoletosController {
 			,@PathVariable Integer id
 			) {
 		bservice.delBoleto(id);
-		model.addAttribute("listaboletos",bservice.buscarBoletos());
+		model.addAttribute("boletos",bservice.buscarBoletos());
+		model.addAttribute("clientes",bcservice.buscarClientes());
+		model.addAttribute("servicos",bsservice.buscarServicos());
 		return "boletos";
 	}
 	

@@ -11,6 +11,7 @@ public class AppController {
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String retornaHome() {
+		
 		return "home";
 	}
 	
