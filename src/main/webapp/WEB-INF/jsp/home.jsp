@@ -19,7 +19,6 @@
 <h3>Projeto de Bloco - Java</h3>
 <h3>Aluno: <b>Frederico Flores da Silva </b></h3>
 <h3> Professor: <b>Elberth Moraes</b> </h3>
-<h3>Código fonte no Github:<a href="https://github.com/" >https://github.com/nagualcode/</a></h3>
 <hr>
 <h2>Gerador de Cobranças:</h2>
 <p>O objetivo desta ferramenta é emitir cobranças de serviços prestados, para clientes pessoa jurídica ou física.</p>
