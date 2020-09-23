@@ -1,11 +1,10 @@
 # emissor-cobranca-projetobloco-java
 
+# Projeto de Bloco - Java
+# Aluno: Frederico Flores da Silva
+# Professor: Elberth Moraes
 
-Projeto de Bloco - Java
-Aluno: Frederico Flores da Silva
-Professor: Elberth Moraes
-Código fonte no Github:https://github.com/nagualcode/
-Gerador de Cobranças:
+# Gerador de Cobranças:
 O objetivo desta ferramenta é emitir cobranças de serviços prestados, para clientes pessoa jurídica ou física, consumindo a api do banco de dados: https://github.com/nagualcode/api-mysql-projetobloco-javanuvem.
 
 
